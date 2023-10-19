@@ -1,4 +1,5 @@
 # Coverage-Badge-Test
+![Coverage](https://img.shields.io/badge/Coverage-100.0%25-brightgreen)
 Тест CI
 # 2023_2_yablonka
 Проект Trello команды ЯБлонька
